@@ -7,3 +7,4 @@ bcrypt
 slowapi
 loguru
 email-validator
+psycopg2-binary
