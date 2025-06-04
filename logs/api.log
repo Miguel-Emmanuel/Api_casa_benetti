@@ -1,0 +1,613 @@
+2025-06-02 22:19:51.645 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test1@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:19:53.273 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:19:54.698 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:19:55.807 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans2@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:19:57.096 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:19:58.324 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans4@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:19:59.274 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans5@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:00.593 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans6@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:11.354 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test1@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:12.903 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:13.912 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:14.838 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans2@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:16.328 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:17.231 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans4@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:18.297 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans5@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:20:19.539 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans6@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:31.763 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test1@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:33.246 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:34.462 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:35.615 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans2@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:36.539 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:37.689 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans4@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:38.897 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans5@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:21:39.844 | ERROR    | app.main:global_exception_handler:204 - Error inesperado: (sqlite3.OperationalError) no such column: users.role
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password AS users_password, users.created_at AS users_created_at, users.role AS users_role 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans6@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-02 22:23:16.066 | INFO     | app.main:login:89 - Intento de login para usuario: trans@correo.com
+2025-06-02 22:23:16.504 | INFO     | app.main:login:96 - Login exitoso para usuario: trans@correo.com
+2025-06-02 22:23:17.005 | INFO     | app.main:login:89 - Intento de login para usuario: trans2@correo.com
+2025-06-02 22:23:17.387 | INFO     | app.main:login:96 - Login exitoso para usuario: trans2@correo.com
+2025-06-02 22:23:17.836 | INFO     | app.main:login:89 - Intento de login para usuario: trans3@correo.com
+2025-06-02 22:23:18.321 | INFO     | app.main:login:96 - Login exitoso para usuario: trans3@correo.com
+2025-06-02 22:23:18.783 | INFO     | app.main:login:89 - Intento de login para usuario: trans4@correo.com
+2025-06-02 22:23:19.232 | INFO     | app.main:login:96 - Login exitoso para usuario: trans4@correo.com
+2025-06-02 22:23:19.689 | INFO     | app.main:login:89 - Intento de login para usuario: trans5@correo.com
+2025-06-02 22:23:20.091 | INFO     | app.main:login:96 - Login exitoso para usuario: trans5@correo.com
+2025-06-02 22:24:05.113 | INFO     | app.main:login:93 - Intento de login para usuario: trans@correo.com
+2025-06-02 22:24:05.515 | INFO     | app.main:login:100 - Login exitoso para usuario: trans@correo.com
+2025-06-02 22:24:06.099 | INFO     | app.main:login:93 - Intento de login para usuario: trans2@correo.com
+2025-06-02 22:24:06.515 | INFO     | app.main:login:100 - Login exitoso para usuario: trans2@correo.com
+2025-06-02 22:24:06.948 | INFO     | app.main:login:93 - Intento de login para usuario: trans3@correo.com
+2025-06-02 22:24:07.341 | INFO     | app.main:login:100 - Login exitoso para usuario: trans3@correo.com
+2025-06-02 22:24:07.795 | INFO     | app.main:login:93 - Intento de login para usuario: trans4@correo.com
+2025-06-02 22:24:08.241 | INFO     | app.main:login:100 - Login exitoso para usuario: trans4@correo.com
+2025-06-02 22:24:08.816 | INFO     | app.main:login:93 - Intento de login para usuario: trans5@correo.com
+2025-06-02 22:24:09.229 | INFO     | app.main:login:100 - Login exitoso para usuario: trans5@correo.com
+2025-06-02 22:24:29.232 | INFO     | app.main:login:93 - Intento de login para usuario: trans@correo.com
+2025-06-02 22:24:29.654 | INFO     | app.main:login:100 - Login exitoso para usuario: trans@correo.com
+2025-06-02 22:24:30.112 | INFO     | app.main:login:93 - Intento de login para usuario: trans2@correo.com
+2025-06-02 22:24:30.502 | INFO     | app.main:login:100 - Login exitoso para usuario: trans2@correo.com
+2025-06-02 22:24:30.961 | INFO     | app.main:login:93 - Intento de login para usuario: trans3@correo.com
+2025-06-02 22:24:31.455 | INFO     | app.main:login:100 - Login exitoso para usuario: trans3@correo.com
+2025-06-02 22:24:31.930 | INFO     | app.main:login:93 - Intento de login para usuario: trans4@correo.com
+2025-06-02 22:24:32.355 | INFO     | app.main:login:100 - Login exitoso para usuario: trans4@correo.com
+2025-06-02 22:24:32.875 | INFO     | app.main:login:93 - Intento de login para usuario: trans5@correo.com
+2025-06-02 22:24:33.294 | INFO     | app.main:login:100 - Login exitoso para usuario: trans5@correo.com
+2025-06-02 22:26:54.433 | INFO     | app.main:login:99 - Intento de login para usuario: trans@correo.com
+2025-06-02 22:26:54.843 | INFO     | app.main:login:106 - Login exitoso para usuario: trans@correo.com
+2025-06-02 22:26:55.300 | INFO     | app.main:login:99 - Intento de login para usuario: trans2@correo.com
+2025-06-02 22:26:55.708 | INFO     | app.main:login:106 - Login exitoso para usuario: trans2@correo.com
+2025-06-02 22:26:56.178 | INFO     | app.main:login:99 - Intento de login para usuario: trans3@correo.com
+2025-06-02 22:26:56.570 | INFO     | app.main:login:106 - Login exitoso para usuario: trans3@correo.com
+2025-06-02 22:26:57.154 | INFO     | app.main:login:99 - Intento de login para usuario: trans4@correo.com
+2025-06-02 22:26:57.573 | INFO     | app.main:login:106 - Login exitoso para usuario: trans4@correo.com
+2025-06-02 22:26:58.029 | INFO     | app.main:login:99 - Intento de login para usuario: trans5@correo.com
+2025-06-02 22:26:58.538 | INFO     | app.main:login:106 - Login exitoso para usuario: trans5@correo.com
+2025-06-02 22:26:58.999 | INFO     | app.main:login:99 - Intento de login para usuario: trans6@correo.com
+2025-06-02 22:26:59.399 | INFO     | app.main:login:106 - Login exitoso para usuario: trans6@correo.com
+2025-06-02 22:53:51.989 | INFO     | app.main:login:99 - Intento de login para usuario: alan
+2025-06-02 22:53:52.004 | WARNING  | app.main:login:102 - Login fallido para usuario: alan
+2025-06-02 22:54:43.780 | INFO     | app.main:login:99 - Intento de login para usuario: alan@gmail.com
+2025-06-02 22:54:43.784 | WARNING  | app.main:login:102 - Login fallido para usuario: alan@gmail.com
+2025-06-02 22:59:02.005 | INFO     | app.main:login:99 - Intento de login para usuario: alan@prueba.com
+2025-06-02 22:59:02.513 | INFO     | app.main:login:106 - Login exitoso para usuario: alan@prueba.com
+2025-06-02 23:05:04.597 | INFO     | app.main:login:99 - Intento de login para usuario: alan@prueba.com
+2025-06-02 23:05:05.035 | INFO     | app.main:login:106 - Login exitoso para usuario: alan@prueba.com
+2025-06-02 23:13:05.544 | INFO     | app.main:login:99 - Intento de login para usuario: alan@prueba.com
+2025-06-02 23:13:06.018 | INFO     | app.main:login:106 - Login exitoso para usuario: alan@prueba.com
+2025-06-02 23:17:23.300 | INFO     | app.main:login:99 - Intento de login para usuario: alan@prueba.com
+2025-06-02 23:17:23.738 | INFO     | app.main:login:106 - Login exitoso para usuario: alan@prueba.com
+2025-06-02 23:24:39.556 | INFO     | app.main:login:99 - Intento de login para usuario: alan@prueba.com
+2025-06-02 23:24:40.129 | INFO     | app.main:login:106 - Login exitoso para usuario: alan@prueba.com
+2025-06-03 16:10:39.089 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:40.559 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:41.522 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:42.322 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:43.122 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:43.940 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:44.743 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:45.536 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:56.624 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:57.911 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:58.795 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:10:59.609 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:11:00.445 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:11:01.259 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:11:02.028 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:11:02.830 | ERROR    | app.main:global_exception_handler:211 - Error inesperado: Object of type User is not JSON serializable
+2025-06-03 16:12:15.312 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:16.625 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:17.582 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:18.375 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:19.168 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:19.967 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:20.863 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:12:21.676 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:14.141 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:15.382 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:16.397 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:17.362 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:18.198 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:19.027 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:19.812 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:13:20.599 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:24.015 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:25.159 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:26.037 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:26.877 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:27.741 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:28.718 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:29.623 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:14:30.435 | ERROR    | app.main:global_exception_handler:217 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:39.914 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:40.936 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:41.722 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:42.459 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:43.253 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:44.121 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:44.968 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:15:45.792 | ERROR    | app.main:global_exception_handler:212 - Error inesperado: Object of type datetime is not JSON serializable
+2025-06-03 16:16:51.612 | INFO     | app.main:login:103 - Intento de login para usuario: trans@correo.com
+2025-06-03 16:16:52.012 | INFO     | app.main:login:110 - Login exitoso para usuario: trans@correo.com
+2025-06-03 16:16:52.608 | INFO     | app.main:login:103 - Intento de login para usuario: trans2@correo.com
+2025-06-03 16:16:53.043 | INFO     | app.main:login:110 - Login exitoso para usuario: trans2@correo.com
+2025-06-03 16:16:53.476 | INFO     | app.main:login:103 - Intento de login para usuario: trans3@correo.com
+2025-06-03 16:16:53.858 | INFO     | app.main:login:110 - Login exitoso para usuario: trans3@correo.com
+2025-06-03 16:16:54.272 | INFO     | app.main:login:103 - Intento de login para usuario: trans4@correo.com
+2025-06-03 16:16:54.635 | INFO     | app.main:login:110 - Login exitoso para usuario: trans4@correo.com
+2025-06-03 16:16:55.057 | INFO     | app.main:login:103 - Intento de login para usuario: trans5@correo.com
+2025-06-03 16:16:55.421 | INFO     | app.main:login:110 - Login exitoso para usuario: trans5@correo.com
+2025-06-03 16:16:55.821 | INFO     | app.main:login:103 - Intento de login para usuario: trans6@correo.com
+2025-06-03 16:16:56.192 | INFO     | app.main:login:110 - Login exitoso para usuario: trans6@correo.com
+2025-06-03 16:18:22.822 | INFO     | app.main:login:103 - Intento de login para usuario: trans@correo.com
+2025-06-03 16:18:23.184 | INFO     | app.main:login:110 - Login exitoso para usuario: trans@correo.com
+2025-06-03 16:18:23.624 | INFO     | app.main:login:103 - Intento de login para usuario: trans2@correo.com
+2025-06-03 16:18:23.981 | INFO     | app.main:login:110 - Login exitoso para usuario: trans2@correo.com
+2025-06-03 16:18:24.383 | INFO     | app.main:login:103 - Intento de login para usuario: trans3@correo.com
+2025-06-03 16:18:24.764 | INFO     | app.main:login:110 - Login exitoso para usuario: trans3@correo.com
+2025-06-03 16:18:25.171 | INFO     | app.main:login:103 - Intento de login para usuario: trans4@correo.com
+2025-06-03 16:18:25.534 | INFO     | app.main:login:110 - Login exitoso para usuario: trans4@correo.com
+2025-06-03 16:18:25.962 | INFO     | app.main:login:103 - Intento de login para usuario: trans5@correo.com
+2025-06-03 16:18:26.331 | INFO     | app.main:login:110 - Login exitoso para usuario: trans5@correo.com
+2025-06-03 16:18:26.780 | INFO     | app.main:login:103 - Intento de login para usuario: trans6@correo.com
+2025-06-03 16:18:27.257 | INFO     | app.main:login:110 - Login exitoso para usuario: trans6@correo.com
+2025-06-03 16:21:52.281 | INFO     | app.main:login:103 - Intento de login para usuario: user@example.com
+2025-06-03 16:21:52.630 | INFO     | app.main:login:110 - Login exitoso para usuario: user@example.com
+2025-06-03 16:29:01.599 | INFO     | app.main:login:104 - Intento de login para usuario: user@example.com
+2025-06-03 16:29:02.107 | INFO     | app.main:login:111 - Login exitoso para usuario: user@example.com
+2025-06-03 20:01:09.429 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('user@example.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:01:18.902 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('user@example.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:01:28.738 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('use@example.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:03.289 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('use@example.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:31.641 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('usuario@gmail.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:48.503 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test1@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:50.068 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:51.226 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:52.329 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans2@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:53.354 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:54.395 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans4@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:55.682 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans5@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:02:56.817 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans6@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:08.987 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test1@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:10.673 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('test3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:12.045 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:13.330 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans2@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:14.420 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans3@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:15.705 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans4@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:17.075 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans5@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:18:18.285 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: (sqlite3.OperationalError) no such column: users.password_hash
+[SQL: SELECT users.id AS users_id, users.email AS users_email, users.password_hash AS users_password_hash, users.name AS users_name 
+FROM users 
+WHERE users.email = ?
+ LIMIT ? OFFSET ?]
+[parameters: ('trans6@correo.com', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-06-03 20:20:31.090 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:32.816 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:34.038 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:35.136 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:36.486 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:37.676 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:38.998 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:20:40.254 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 'password' is an invalid keyword argument for User
+2025-06-03 20:22:01.312 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:02.669 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:03.332 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:03.982 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:04.636 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:05.217 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:05.953 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:22:06.656 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:10.506 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:11.704 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:12.300 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:12.987 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:13.735 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:14.356 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:15.078 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:15.819 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:36.383 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:38.183 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:38.894 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:39.624 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:40.448 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:41.044 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:41.657 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:42.200 | ERROR    | app.main:global_exception_handler:194 - Error inesperado: name 'User' is not defined
+2025-06-03 20:26:54.864 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210600EF110>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210600EF110>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:26:56.853 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210600BC230>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210600BC230>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:26:57.953 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210602A31A0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210602A31A0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:26:59.092 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000021060087EF0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000021060087EF0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:00.148 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210602A11F0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210602A11F0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:01.242 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210602BFE60>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x00000210602BFE60>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:02.943 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000021060CCBAA0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000021060CCBAA0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:04.123 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000021060CC99A0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000021060CC99A0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:15.270 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF321AE40>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF321AE40>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:16.754 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF338D0D0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF338D0D0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:18.144 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF3418F80>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF3418F80>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:19.515 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF24262A0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF24262A0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:20.814 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF341B7D0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF341B7D0>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:22.515 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF3413650>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF3413650>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:24.496 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF3407530>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF3407530>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:27:26.070 | ERROR    | app.main:global_exception_handler:193 - Error inesperado: 2 validation errors for UserResponse
+created_at
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF344F020>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+role
+  Field required [type=missing, input_value=<app.models.user.User obj...t at 0x0000023DF344F020>, input_type=User]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-03 20:29:25.405 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: 'User' object has no attribute 'password'
+2025-06-03 20:29:26.785 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: 'User' object has no attribute 'password'
+2025-06-03 20:29:28.114 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: 'User' object has no attribute 'password'
+2025-06-03 20:29:29.312 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: 'User' object has no attribute 'password'
+2025-06-03 20:29:30.289 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: 'User' object has no attribute 'password'
+2025-06-03 20:29:31.303 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: 'User' object has no attribute 'password'
+2025-06-03 20:30:07.888 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: (sqlite3.IntegrityError) NOT NULL constraint failed: transactions.stripe_payment_id
+[SQL: INSERT INTO transactions (user_id, stripe_payment_id, amount, status, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1, None, 100.0, 'pending', '2025-06-04 02:30:07.886127')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 20:30:13.155 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: (sqlite3.IntegrityError) NOT NULL constraint failed: transactions.stripe_payment_id
+[SQL: INSERT INTO transactions (user_id, stripe_payment_id, amount, status, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1, None, 100.0, 'pending', '2025-06-04 02:30:13.153884')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 20:30:27.089 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: (sqlite3.IntegrityError) NOT NULL constraint failed: transactions.stripe_payment_id
+[SQL: INSERT INTO transactions (user_id, stripe_payment_id, amount, status, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1, None, 100.0, 'pending', '2025-06-04 02:30:27.088769')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-06-03 20:30:32.926 | ERROR    | app.main:global_exception_handler:206 - Error inesperado: (sqlite3.IntegrityError) NOT NULL constraint failed: transactions.stripe_payment_id
+[SQL: INSERT INTO transactions (user_id, stripe_payment_id, amount, status, created_at) VALUES (?, ?, ?, ?, ?)]
+[parameters: (1, None, 100.0, 'pending', '2025-06-04 02:30:32.925620')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
