@@ -6,3 +6,4 @@ jose
 bcrypt
 slowapi
 loguru
+email-validator
